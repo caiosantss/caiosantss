@@ -5,7 +5,6 @@
 - 📫 Contate me no email: caiosilvasantos87@gmail.com
 - ⚡ Sou um estudante curioso que esta sempre em busta de aprimorar seus conhecimentos.
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=caiosantss&theme=dark&hide_border=false)<br/> <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=caiosantss&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
  
   # 💻 Tech Stack:
