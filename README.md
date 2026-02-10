@@ -27,13 +27,6 @@ class CaioSantos:
 me = CaioSantos()
 ```
 
-🌱 **Desenvolvedor Web** especializado em criar soluções digitais escaláveis e experiências de alto impacto  
-💼 **Experiência profissional** em desenvolvimento full stack, marketing digital e gestão de tráfego pago  
-🎓 **Estudante de Engenharia de Software** na UniBrasil (2024-2027)  
-🏆 **Resultados comprovados** em otimização de performance e campanhas digitais  
-📚 **Aprendizado contínuo** - Certificado em CS50 Python (Harvard), C# Certificate, 21 Days Coding at JavaScript, TOEFL  
-
-
 ---
 
 ## 💻 Tech Stack
@@ -74,7 +67,7 @@ me = CaioSantos()
 <td>
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=caiosantss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+  src="https://github-readme-stats.vercel.app/api?username=caiosantss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400"
   height="180"
 />
 
@@ -82,7 +75,7 @@ me = CaioSantos()
 <td>
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiosantss&layout=compact&theme=tokyonight"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiosantss&layout=compact&theme=tokyonight&cache_seconds=86400"
   height="180"
 />
 
@@ -91,7 +84,6 @@ me = CaioSantos()
 </table>
 
 </div>
-
 
 
 ---
