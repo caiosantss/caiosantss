@@ -56,36 +56,6 @@ me = CaioSantos()
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<table>
-<tr>
-<td>
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=caiosantss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400"
-  height="180"
-/>
-
-</td>
-<td>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiosantss&layout=compact&theme=tokyonight&cache_seconds=86400"
-  height="180"
-/>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-
 ---
 
 ## 🎓 Formação e Certificações
