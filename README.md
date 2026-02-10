@@ -2,12 +2,11 @@
   
 # 👋 Olá! Eu sou o Caio Santos
 
-### Full Stack Developer | Software Engineering Student 
+### Junior Developer | Software Engineering Student 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiosants/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiosilvasantos87@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://meuportfoliocaio.netlify.app/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caiosants__/)
 
 
 </div>
@@ -20,30 +19,10 @@
 class CaioSantos:
     def __init__(self):
         self.name = "Caio Santos"
-        self.role = "Full Stack Developer"
+        self.role = "Junior Developer"
         self.location = "Curitiba, PR - Brasil"
         self.education = "Software Engineering @ UniBrasil"
         self.languages = ["Portuguese (Native)", "English (Professional - TOEFL ITP)"]
-        
-    def get_current_work(self):
-        return {
-            "company": "OMNI Informática",
-            "position": "Technical Assistant",
-            "responsibilities": [
-                "Desenvolvimento web com WordPress, PHP, HTML e CSS",
-                "Criação de materiais visuais e banners",
-                "Atendimento técnico e suporte ao cliente",
-                "Análises técnicas e gestão de logística"
-            ]
-        }
-    
-    def get_expertise(self):
-        return [
-            "Desenvolvimento Full Stack (PHP, JavaScript, Python)",
-            "Otimização de performance (+40% em projetos)",
-            "Marketing Digital e Tráfego Pago (+20% ROI)",
-            "Design UX/UI e identidade visual"
-        ]
 
 me = CaioSantos()
 ```
@@ -53,6 +32,7 @@ me = CaioSantos()
 🎓 **Estudante de Engenharia de Software** na UniBrasil (2024-2027)  
 🏆 **Resultados comprovados** em otimização de performance e campanhas digitais  
 📚 **Aprendizado contínuo** - Certificado em CS50 Python (Harvard), C# Certificate, 21 Days Coding at JavaScript, TOEFL  
+
 
 ---
 
@@ -84,6 +64,7 @@ me = CaioSantos()
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 
+
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -92,25 +73,6 @@ me = CaioSantos()
 
 </div>
 
----
-
-## 🎯 Projetos em Destaque
-
-### 🐍 [CS50 Python - Harvard](https://github.com/caiosantss/cs50-python)
-Resolução completa dos exercícios do curso CS50's Introduction to Programming with Python
-- **Tech:** Python, pytest, Regular Expressions, OOP
-- **Destaque:** Documentação profissional e código bem estruturado
-- **Status:** ✅ Certificado concluído
-
-### 🌐 [Portfólio Pessoal](https://meuportfoliocaio.netlify.app/)
-Site pessoal showcasing projetos e habilidades
-- **Tech:** HTML5, CSS3, JavaScript
-- **Deploy:** Netlify
-- **Status:** 🚀 Online
-
-### 💻 [Automações e Aplicações Web]
-Repositórios com automações, websites e aplicações full stack
-- **Explore:** [GitHub Profile](https://github.com/caiosantss)
 
 ---
 
@@ -122,45 +84,20 @@ Repositórios com automações, websites e aplicações full stack
 ### 🏆 Certificações
 - ✅ **CS50's Introduction to Programming with Python** - Harvard University
 - ✅ **TOEFL ITP** - English Professional
+- ✅ **Alura** - Diversos certificados
 - ✅ **Lógica de Programação e Algoritmos (C#)** - Curso em Vídeo
 - ✅ **HTML5 e CSS3** - Curso em Vídeo
 - ✅ **Others** - 
 
 ---
 
-### 🏆 Destaques
-- 🎓 Representante de turma na UniBrasil
-- 💻 Suporte técnico para empreendedores locais
-- 🌐 Desenvolvimento e otimização de sites WordPress
-- 📱 Gestão de campanhas digitais de baixo custo
-- 🎨 Design de identidade visual e materiais gráficos
-
----
-
-## 🛠️ Áreas de Especialização
-
-```typescript
-const expertise = {
-  fullStack: ['PHP', 'JavaScript', 'Python', 'MySQL'],
-  webDevelopment: ['WordPress', 'HTML5', 'CSS3', 'Performance Optimization'],
-  digitalMarketing: ['Google Ads', 'Meta Ads', 'SEO Básico', 'Paid Traffic'],
-  design: ['UX/UI', 'Canva', 'Banner Design', 'Brand Identity'],
-  softSkills: ['Problem Solving', 'Team Communication', 'Technical Support']
-};
-```
-
----
-
-## 📫 Vamos Conectar?
-
-Estou sempre aberto a discutir sobre tecnologia, desenvolvimento web, marketing digital e novas oportunidades de colaboração!
+## 📫 Vamos nos conectar?
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiosants/)
 [![Email](https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiosilvasantos87@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visitar-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://meuportfoliocaio.netlify.app/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Mensagem-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5541995627614)
 
 </div>
 
@@ -169,6 +106,5 @@ Estou sempre aberto a discutir sobre tecnologia, desenvolvimento web, marketing 
 <div align="center">
 
 **Obrigado pela visita!** ⭐  
-*Explore meus repositórios e vamos construir algo incrível juntos!*
 
 </div>
