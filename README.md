@@ -69,9 +69,29 @@ me = CaioSantos()
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caiosantss&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<table>
+<tr>
+<td>
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=caiosantss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+  height="180"
+/>
+
+</td>
+<td>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiosantss&layout=compact&theme=tokyonight"
+  height="180"
+/>
+
+</td>
+</tr>
+</table>
 
 </div>
+
 
 
 ---
